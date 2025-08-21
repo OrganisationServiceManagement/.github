@@ -7,15 +7,6 @@
 <p align="center">
   <em>Standards-aligned automation and configuration for Governance, Risk, Compliance, IT Operations, and Business Continuity</em>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/OrganisationServiceManagement/.github/main/assets/osm-logo.svg" alt="Organisation Service Management (OSM)" width="400">
-</p>
-
-<h1 align="center">Organisation Service Management (OSM)</h1>
-
-<p align="center">
-  <em>Standards-aligned automation and configuration for Governance, Risk, Compliance, IT Operations, and Business Continuity</em>
-</p>
 
 ---
 
