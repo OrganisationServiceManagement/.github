@@ -76,7 +76,8 @@ Organisations today face duplicated, fragmented, and manual processes across com
 Unlike traditional GRC/IRM tools (e.g. ServiceNow, Archer, Vanta):  
 
 - OSM **integrates with your existing stack** rather than replacing or adding to it  
-- Is **agnostic and customer-controlled** – your tenancy, your data  
+- Is **agnostic and customer-controlled** – your tenancy, your data
+- Addresses duplication of information and workflows via schema.osm.dev 0
 - Includes an **OSM Guardian consultant model** for deployment, maintenance, and accreditation support  
 
 ---
