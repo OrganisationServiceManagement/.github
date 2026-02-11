@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/OrganisationServiceManagement/.github/main/assets/osm-logo.svg" alt="Organisation Service Management (OSM)" width="100%">
 </p>
-^M
 
 <h1 align="center">Organisation Service Management (OSM)</h1>
 
