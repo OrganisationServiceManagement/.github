@@ -11,8 +11,7 @@
 
 **Organisation Service Management (OSM)** is a framework, methodology, and set of tools for aligning organisational governance, risk, compliance, IT operations, and business continuity into a cohesive system.
 
-We build open, modular, and standards-aligned solutions that help organisations achieve:
-
+We build open, modular, and standards-aligned solutions that help organisations achieve: 
 - **ISO/IEC 27001:2022** Information Security Management
 - **ISO/IEC 27002:2022** Information Security Controls
 - **ISO 22301:2019** Business Continuity Management
