@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/OrganisationServiceManagement/.github/main/assets/osm-banner.svg" alt="Organisation Service Management (OSM)" width="100%">
+  <img src="https://raw.githubusercontent.com/OrganisationServiceManagement/.github/refs/heads/main/assets/ZOAK%2BOSMBanner-2026.svg" alt="Organisation Service Management (OSM)" width="100%">
 </p>
 
 <h1 align="center">Organisation Service Management (OSM)</h1>
@@ -92,3 +92,4 @@ This GitHub organisation hosts:
 
 We welcome collaboration with organisations, auditors, and practitioners who want to streamline compliance and operations without unnecessary complexity, contact <tech@osm.dev>
 for more information.
+
